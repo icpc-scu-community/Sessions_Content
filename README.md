@@ -1,4 +1,4 @@
-# Competitive Programming Sessions Content
+# Sessions Content
 
 This Repository contains Session for some Algorithms and Tips & Tricks for PS and CP
 
